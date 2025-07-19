@@ -3,8 +3,6 @@
 
 A lightweight AI-powered writing helper that analyzes your text tone and provides smart suggestions — all without using any external API! Built using React and Tailwind CSS.
 
-![App Preview](https://raw.githubusercontent.com/Qasim-Rokeeb/ai-writing-assistant/main/screenshot.png)
-
 ---
 
 ## 📘 Project Description
