@@ -49,7 +49,7 @@ Here’s a look at the AI Writing Assistant:
    ```bash
    git clone https://github.com/Qasim-Rokeeb/ai-writing-assistant.git
    cd ai-writing-assistant
-````
+
 
 2. Install dependencies:
 
@@ -71,7 +71,7 @@ Here’s a look at the AI Writing Assistant:
 
 This app is deployed using **Vercel**.
 
-🔗 [https://qasimrokeeb-ai-writing-assistant.vercel.app/](https://qasimrokeeb-ai-writing-assistant.vercel.app/)
+🔗 [https://qasimrokeeb-ai-writing-assistant.vercel.app/](https://ai-writing-assistant-theta.vercel.app/)
 
 ---
 
