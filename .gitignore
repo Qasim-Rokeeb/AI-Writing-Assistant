@@ -13,7 +13,7 @@ dist-ssr
 *.local
 
 # API / secrets
-.env
+.env/
 .env.local
 .env.*.local
 
